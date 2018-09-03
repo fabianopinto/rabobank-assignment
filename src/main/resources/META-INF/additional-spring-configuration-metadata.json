@@ -1,0 +1,17 @@
+{"properties": [
+  {
+    "name": "app.file.inbox",
+    "type": "java.lang.String",
+    "description": "Inbox folder for file processing"
+  },
+  {
+    "name": "app.file.outbox",
+    "type": "java.lang.String",
+    "description": "Outbox folder for file processing"
+  },
+  {
+    "name": "app.file.rejected",
+    "type": "java.lang.String",
+    "description": "Folder for rejected files"
+  }
+]}
